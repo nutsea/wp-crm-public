@@ -1,0 +1,8 @@
+.GenerateKeyCard {
+    width: 100%;
+
+    .KeyCard {
+        max-width: calc(100% - 5px);
+        width: calc(100% - 5px);
+    }
+}
